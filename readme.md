@@ -1,14 +1,20 @@
------------------------
-# README
------------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+## 🧑‍💻 About This Website
+This website is created to introduce myself. It contains information about who I am, my background as a Junior Software Engineer.
 
+The goal of this website is to serve as a personal portfolio and a way for others to get to know me better.
+
+</br>
+
+## 🧑‍💻 Use This Template
 
 Template Info:
 -----------------------
 Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
+
 Version: 	1.0
+
 Author: 	ThemeSINE
+
 Website: 	https://www.themesine.com/
 
 
